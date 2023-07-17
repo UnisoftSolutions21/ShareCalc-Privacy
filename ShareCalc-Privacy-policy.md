@@ -172,8 +172,8 @@ If We need to rely on consent as a legal basis for processing Your information a
 Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
 
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
-Link to the privacy policy of third-party service providers used by the app
 
+Link to the privacy policy of third-party service providers used by the app
 Google Play Services
 AdMob
 
